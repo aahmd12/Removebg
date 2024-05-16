@@ -1,16 +1,16 @@
 Cara mendapatkan kode API KEY Removebg
 
 1. Buka website Remove.bg
-2. Daftar Akun: Jika Anda belum memiliki akun, Anda perlu mendaftar terlebih dahulu. 
+2. Daftar Akun apabila anda belum memiliki akun, anda perlu mendaftar terlebih dahulu. 
    Klik tombol "Sign Up" dan ikuti langkah-langkah pendaftaran yang diberikan.
-3. Login: Setelah mendaftar, login ke akun Anda menggunakan kredensial yang telah Anda buat.
-4. Akses Dashboard: Setelah login, Anda akan diarahkan ke dashboard akun Anda.
-5. Pergi ke Bagian API: Di dashboard, cari dan klik opsi "API" atau "Developer" 
+3. Setelah mendaftar, login ke akun Anda menggunakan kredensial yang telah Anda buat.
+4. Setelah login, Anda akan diarahkan ke dashboard akun Anda.
+5. Di dashboard, cari dan klik opsi "API" atau "Developer" 
    (nama bagian dapat bervariasi tergantung pada tata letak situs web).
-6. Dapatkan Kunci API: Di bagian API, Anda akan melihat informasi tentang API Remove.bg, termasuk cara menggunakannya 
+6. Di bagian API, Anda akan melihat informasi tentang API Remove.bg, termasuk cara menggunakannya 
    dan dokumentasi. Di sana, Anda akan menemukan kunci API Anda yang diperlukan untuk mengakses layanan mereka.
-7. Gunakan Kunci API: Salin kunci API Anda dan gunakan dalam permintaan HTTP ke endpoint Remove.bg 
+7. Salin kunci API Anda dan gunakan dalam permintaan HTTP ke endpoint Remove.bg 
    untuk menghapus latar belakang gambar.
-8. Lihat Dokumentasi: Penting untuk membaca dokumentasi API untuk memahami cara menggunakan API Remove.bg dengan benar. 
+8. Penting untuk membaca dokumentasi API untuk memahami cara menggunakan API Remove.bg dengan benar. 
    Dokumentasi akan memberikan informasi tentang cara mengirim permintaan, parameter yang tersedia, dan tanggapan yang 
    diharapkan.
